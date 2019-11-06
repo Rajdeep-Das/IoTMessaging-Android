@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967552387303",
+    "firebase_url": "https://iotmessaging-aa5da.firebaseio.com",
+    "project_id": "iotmessaging-aa5da",
+    "storage_bucket": "iotmessaging-aa5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967552387303:android:bec08f009435c458da3a42",
+        "android_client_info": {
+          "package_name": "com.tanu.iotmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967552387303-dmqhdm8l3qkr0emseqinb9ofplvr5922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYpyqtuhm_gRj2ouMeIo0Fp3GVNHg2h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967552387303-dmqhdm8l3qkr0emseqinb9ofplvr5922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
